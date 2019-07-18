@@ -1,4 +1,4 @@
-class StaticController < ApplicationController
+class StaticController < ApplicationController::Base
     def about
     end
 end
