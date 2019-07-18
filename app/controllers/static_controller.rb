@@ -1,4 +1,4 @@
 class StaticController < ApplicationController::Base
-    def about
+    def hello_world
     end
 end
